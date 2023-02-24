@@ -45,6 +45,9 @@ This analysis shows that a strategy to get this new investment up and running is
 
  1. It would be cool to create a spider graph to show where bikes have gone. 
  2. It would be nice to have more data and to see if certain times throughout the year are peak times of interest for ridesharing bikes.
+ 
+ For a deeper dive please visit my Tableau Public page:
+ [Citibike Dashboard](https://public.tableau.com/app/profile/tyler.evans6984/viz/Module_15_Challenge_Citibike/Story1)
  --- 
  
 
